@@ -1,1 +1,3 @@
-line1
+line1: good
+line2: food
+line3: drink
